@@ -1,13 +1,13 @@
-Description
-  This project is a comprehensive tool for managing and utilizing currency exchange rate data. It allows users to create, store, and read files containing information about different countries and their exchange rates. Additionally, the project provides functionality for converting currencies, making it practical for real-world applications.
+Description\n
+  \nThis project is a comprehensive tool for managing and utilizing currency exchange rate data. It allows users to create, store, and read files containing information about different countries and their exchange rates. Additionally, the project provides functionality for converting currencies, making it practical for real-world applications.
 
-Purpose
+Purpose\n
 The primary goal of this project was to enhance my programming skills in C# by focusing on:
-  -Effectively using dictionaries for data organization and retrieval.
-  -Handling JSON data for storing and managing structured information.
-  -Practicing object-oriented programming (OOP) concepts to design clean, reusable, and modular code.
-  -Learning how to handle file operations and work with directories to store and load data efficiently.
-  -This project significantly contributed to my learning experience by allowing me to refine and integrate these skills into a cohesive application.
+  \n-Effectively using dictionaries for data organization and retrieval.
+  \n-Handling JSON data for storing and managing structured information.
+  \n-Practicing object-oriented programming (OOP) concepts to design clean, reusable, and modular code.
+  \n-Learning how to handle file operations and work with directories to store and load data efficiently.
+  \n-This project significantly contributed to my learning experience by allowing me to refine and integrate these skills into a cohesive application.
 
 Key Features
   -Create Currency Databases: Input and store detailed information on countries and their respective exchange rates.
