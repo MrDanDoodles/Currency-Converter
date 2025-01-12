@@ -1,0 +1,11 @@
+{
+  "country_name": "United States of America",
+  "currency_code": "USD",
+  "foreign_exchange_rate": {
+    "CAD": 1.26,
+    "MXN": 20.63,
+    "EUR": 0.96,
+    "CNY": 7.08,
+    "JPY": 130.45
+  }
+}

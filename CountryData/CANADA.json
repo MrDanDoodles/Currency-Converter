@@ -1,0 +1,11 @@
+{
+  "country_name": "Canada",
+  "currency_code": "CAD",
+  "foreign_exchange_rate": {
+    "USD": 0.79,
+    "MXN": 41.53,
+    "EUR": 0.68,
+    "CNY": 5.34,
+    "JPY": 110.25
+  }
+}
