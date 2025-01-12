@@ -9,7 +9,7 @@ namespace CurrencyConverter
             //Creating Variables for main program
             string menuOption;
             bool appIsOn = true;
-            const string filePath = @"C:\\Users\\1211d\\Desktop\\Computer Science\\C# Masterclass\\14 - Money Converter\\CurrencyConverter\\CurrencyConverter\\CountryData\\";
+            const string filePath = "CurrencyConverter\\CountryData\\";
 
             //APP BEGINS HERE
             while (appIsOn)
